@@ -16,4 +16,4 @@ const store = configureStore({
 
 export default store;
 // ! add the backend server hosted link
-export const server = "http://localhost:4000/api/v1";
+export const server = "https://burger-app-backend-xw6n.onrender.com/api/v1";
